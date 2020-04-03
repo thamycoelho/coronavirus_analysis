@@ -1,0 +1,55 @@
+Country,Lockdown Level,Lockdown Start Date
+United States,2,2020-03-20
+New York,2,2020-03-20
+Italy,3,2020-09-03
+Lombardia,3,2020-09-03
+Spain,3,2020-03-14
+China,2,2020-01-23
+Wuhan,3,2020-01-23
+Germany,2,2020-03-20
+France,3,2020-03-17
+Iran,0,
+United Kingdom,3,2020-03-23
+Switzerland,0,
+Turkey,0,
+Belgium,3,2020-03-18
+Netherlands,0,
+Austria,3,2020-03-16
+South Korea,3,2020-02-01
+Canada,3,2020-03-16
+Portugal,3,2020-03-19
+Brazil,2,17-03-2020
+São Paulo,2,24-03-2020
+Israel,3,2020-03-25
+Norway,3,2020-03-12
+Australia,3,2020-03-23
+Sweden,0,
+Czech Republic,3,2020-03-16
+Ireland,3,2020-03-12
+Denmark,3,2020-03-11
+Malaysia,3,2020-03-18
+Chile,3,2020-03-19
+Russia,2,2020-03-30
+Poland,3,2020-03-13
+Romania,3,2020-03-25
+Ecuador,3,2020-03-16
+Luxembourg,1,2020-03-13
+Philippines,2,2020-03-15
+Japan,0,
+Pakistan,2,2020-03-22
+Thailand,0,
+Saudi Arabia,1,2020-03-26
+Indonesia,1,2020-03-26
+Finland,2,2020-03-27
+India,3,2020-03-25
+South Africa,3,2020-03-14
+Greece,3,2020-03-23
+Panama,3,2020-03-25
+Iceland,0,
+Dominican Republic,3,2020-03-19
+Mexico,0,
+Peru,3,2020-03-16
+Argentina,3,2020-03-19
+Singapore,3,2020-01-20
+Colombia,3,2020-03-25
+Serbia,0,
